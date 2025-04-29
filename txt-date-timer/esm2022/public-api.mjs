@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of txt-date-timer
+ */
+export * from './lib/txt-date-timer.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3R4dC1kYXRlLXRpbWVyL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxnQ0FBZ0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB0eHQtZGF0ZS10aW1lclxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3R4dC1kYXRlLXRpbWVyLmNvbXBvbmVudCc7XHJcbiJdfQ==
