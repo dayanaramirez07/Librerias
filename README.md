@@ -1,8 +1,8 @@
-# 🧩 Componentes Reutilizables en Angular
+# 🧩 Librerías Reutilizables en Angular
 
-Este repositorio contiene un conjunto de componentes Angular modulares y reutilizables, diseñados para ser utilizados en distintas aplicaciones.
+Este repositorio contiene un conjunto de **librerías Angular** modulares y reutilizables, cada una agrupando componentes, servicios o pipes específicos.
 
-## 📁 Componentes disponibles
+## 📦 Librerías disponibles
 
 - **Carrusel** (`carrusel`) – Componente para mostrar elementos en forma de slider.
 - **Dropdown** (`dropdown`) – Menú desplegable configurable.
